@@ -1,4 +1,4 @@
-//  Author: Nick Salerni.
+//  Author: Nick Salerni
 //  Copyright (c) 2014. All rights reserved.
 //
 //  Quick Sort Algorithm
