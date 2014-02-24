@@ -4,6 +4,7 @@
 //  Quick Sort Algorithm
 //
 
+// Partitions the array into two parts.
 void Partition (int A[], int *i, int *j)
 {
     int pivot, temp, pivpos;
